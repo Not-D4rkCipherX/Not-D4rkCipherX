@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Not-D4rkCipherX
+- 👋 Hi, I’m D4rkCipherX
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Computer Science Engeneering and Electronics Engeneering
 - 💞️ I’m looking to collaborate on ...
