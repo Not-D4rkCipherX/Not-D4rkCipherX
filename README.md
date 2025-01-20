@@ -1,6 +1,6 @@
 - 👋 Hi, I’m D4rkCipherX
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning CSE & EEE
+- 🌱 I’m currently learning Diploma Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact.d4rkcipherx@gmail.com
 - 😄 Pronouns: ...
